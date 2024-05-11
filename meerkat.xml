@@ -1,0 +1,15 @@
+<game_data>
+    <levels>
+        <level id="1">
+            <name>Level 1</name>
+            <!-- Add additional level data here -->
+        </level>
+        <!-- Add more levels as needed -->
+    </levels>
+    <settings>
+        <sound_enabled>true</sound_enabled>
+        <music_volume>0.8</music_volume>
+        <!-- Add additional settings here -->
+    </settings>
+    <!-- Add more game data as needed -->
+</game_data>
